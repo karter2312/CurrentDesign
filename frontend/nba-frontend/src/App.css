@@ -1,0 +1,75 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+.hero-banner {
+  background-color: #007A33; /* Celtics Green */
+  color: white;
+  padding: 50px 0;
+  font-size: 2rem;
+}
+
+.teams-stats h2, .matchup-predictions h2 {
+  color: #007A33; /* Celtics Green */
+}
+
+.team-stats h3 {
+  background-color: #007A33; /* Celtics Green */
+  color: white;
+  padding: 10px;
+}
+
+table {
+  margin: 0 auto;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #BA9653; /* Gold accent for headers */
+  color: white;
+  padding: 10px;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+button {
+  background-color: #007A33; /* Celtics Green */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #005f27; /* Darker shade for hover */
+}
+
+.matchup-predictions {
+  margin: 20px 0;
+}
+
+select {
+  padding: 5px;
+  margin: 5px;
+}
+
+.hero-banner, .matchup-predictions, .teams-stats {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.matchup-predictions {
+  border-bottom: 3px solid #007A33;
+  padding-bottom: 30px;
+}
