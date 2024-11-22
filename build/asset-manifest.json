@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CurrentDesign/static/css/main.475c227f.css",
-    "main.js": "/CurrentDesign/static/js/main.f47835e8.js",
+    "main.js": "/CurrentDesign/static/js/main.a32b2631.js",
     "static/js/453.9cbaabcb.chunk.js": "/CurrentDesign/static/js/453.9cbaabcb.chunk.js",
     "index.html": "/CurrentDesign/index.html",
     "main.475c227f.css.map": "/CurrentDesign/static/css/main.475c227f.css.map",
-    "main.f47835e8.js.map": "/CurrentDesign/static/js/main.f47835e8.js.map",
+    "main.a32b2631.js.map": "/CurrentDesign/static/js/main.a32b2631.js.map",
     "453.9cbaabcb.chunk.js.map": "/CurrentDesign/static/js/453.9cbaabcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.475c227f.css",
-    "static/js/main.f47835e8.js"
+    "static/js/main.a32b2631.js"
   ]
 }
